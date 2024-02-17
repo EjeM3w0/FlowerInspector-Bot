@@ -37,4 +37,4 @@ async def picture(ctx):
     else:
         await ctx.send("Прошу вас прикрепить фото для распознавания")
 
-bot.run('MTIwMzMwMjUxMzkzMjI0NzA5MA.GIzsXn.7bKjV9ynX5p4-j7mynOhy3oVwG13Mgr-Lp_RlE')
+bot.run('')
